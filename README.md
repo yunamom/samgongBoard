@@ -6,7 +6,14 @@ https://green27.duckdns.org
 <br>
 ## 💡\[ 제작기간 : 2022년 2월 15일 ~ 3월 13일 \] 4주
 
-맡은파트 \- DB 설계 / 메인화면 영화검색 / 고객센터 / CSS 총괄 / AWS EC2 서버 구축 및 배포
+맡은파트 \- DB 설계 / 메인화면 영화검색 / 고객센터 / CSS 총괄 / AWS EC2 서버 구축 및 배포<br><br>
+메인화면 설명 : https://yunamom.tistory.com/68?category=1002334<br>
+고객센터 메인설명 : https://yunamom.tistory.com/69?category=1002334<br>
+게시판 설명 : https://yunamom.tistory.com/70?category=1002334<br>
+1:1 문의 설명 : https://yunamom.tistory.com/71?category=1002334<br>
+글작성 및 저장 설명 : https://yunamom.tistory.com/72?category=1002334<br>
+
+
 <br>
 <br>
 ### **기능목록**
